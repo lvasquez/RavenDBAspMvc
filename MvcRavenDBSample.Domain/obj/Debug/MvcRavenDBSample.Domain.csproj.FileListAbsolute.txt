@@ -1,0 +1,5 @@
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Domain\bin\Debug\MvcRavenDBSample.Domain.dll
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Domain\bin\Debug\MvcRavenDBSample.Domain.pdb
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Domain\obj\Debug\MvcRavenDBSample.Domain.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Domain\obj\Debug\MvcRavenDBSample.Domain.dll
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Domain\obj\Debug\MvcRavenDBSample.Domain.pdb

@@ -1,0 +1,11 @@
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\MvcRavenDBSample.Data.dll
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\MvcRavenDBSample.Data.pdb
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\obj\Debug\MvcRavenDBSample.Data.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\obj\Debug\MvcRavenDBSample.Data.dll
+c:\users\luis\documents\visual studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\obj\Debug\MvcRavenDBSample.Data.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\MvcRavenDBSample.Domain.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\Raven.Abstractions.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\MvcRavenDBSample.Domain.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\Raven.Abstractions.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\MvcRavenDBSample\MvcRavenDBSample.Data\bin\Debug\Raven.Client.Lightweight.xml
